@@ -6,6 +6,6 @@
 # Асинхронный сервис:
 [https://github.com/Waffe-Wafle/RIP_GO_Async_Service](https://github.com/Waffe-Wafle/RIP_GO_Async_Service)
 
-#Бэкенд:
+# Бэкенд:
 [https://github.com/Waffe-Wafle/RIP_Django_Backend](https://github.com/Waffe-Wafle/RIP_Django_Backend)
 
